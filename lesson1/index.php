@@ -17,9 +17,9 @@ class Person
     }
 }
 
-$person1 = new Person('Duilio', 'Palacios');
+$person1 = new Person('Adrian', 'Palacios');
 
-$person2 = new Person('Ramon', 'Lapenta');
+$person2 = new Person('Juan', 'Lapenta');
 
 //
 
